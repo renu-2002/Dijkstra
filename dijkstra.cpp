@@ -1,5 +1,4 @@
-//NAME:JENISH D RATHOD
-//ID:201901435
+
 #include<iostream>
 #include <limits.h> 
 using namespace std;
